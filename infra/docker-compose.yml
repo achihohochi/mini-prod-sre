@@ -1,0 +1,69 @@
+services:
+  grafana:
+    image: grafana/grafana:latest
+    container_name: sre_grafana
+    ports:
+      - "3000:3000"
+    environment:
+      - GF_SECURITY_ADMIN_USER=admin
+      - GF_SECURITY_ADMIN_PASSWORD=admin
+    volumes:
+      - ./grafana/provisioning:/etc/grafana/provisioning
+    depends_on:
+      - prometheus
+      - loki
+      - jaeger
+    restart: unless-stopped
+
+  prometheus:
+    image: prom/prometheus:latest
+    container_name: sre_prometheus
+    ports:
+      - "9090:9090"
+    volumes:
+      - ./prometheus/prometheus.yml:/etc/prometheus/prometheus.yml:ro
+    command:
+      - "--config.file=/etc/prometheus/prometheus.yml"
+    restart: unless-stopped
+
+  loki:
+    image: grafana/loki:latest
+    container_name: sre_loki
+    ports:
+      - "3100:3100"
+    command: -config.file=/etc/loki/local-config.yaml
+    restart: unless-stopped
+
+  jaeger:
+    image: jaegertracing/all-in-one:latest
+    container_name: sre_jaeger
+    ports:
+      - "16686:16686"   # Jaeger UI
+      - "4317:4317"     # OTLP gRPC (apps can send here)
+      - "4318:4318"     # OTLP HTTP (apps can send here)
+    restart: unless-stopped
+
+  otelcol:
+    image: otel/opentelemetry-collector-contrib:latest
+    container_name: sre_otelcol
+    command: ["--config=/etc/otelcol/config.yaml"]
+    volumes:
+      - ./otelcol/config.yaml:/etc/otelcol/config.yaml:ro
+    ports:
+      - "4319:4317"     # OTLP gRPC (apps can send here)
+      - "4320:4318"     # OTLP HTTP (apps can send here)
+    depends_on:
+      - jaeger
+      - loki
+    restart: unless-stopped
+
+  promtail:
+    image: grafana/promtail:latest
+    container_name: sre_promtail
+    command: -config.file=/etc/promtail/config.yml
+    volumes:
+      - ./promtail/config.yml:/etc/promtail/config.yml:ro
+      - ../services/api/logs:/var/log/app:ro
+    depends_on:
+      - loki
+    restart: unless-stopped

@@ -1,0 +1,429 @@
+2025-12-27 21:54:05,652 INFO healthz called
+2025-12-27 21:54:05,665 INFO work called
+2025-12-27 23:27:27,249 INFO healthz called
+2025-12-27 23:27:27,260 INFO work called
+2025-12-27 23:27:27,366 INFO work called
+2025-12-27 23:27:27,501 INFO work called
+2025-12-27 23:27:27,551 INFO work called
+2025-12-27 23:27:27,591 INFO work called
+2025-12-27 23:27:27,650 INFO work called
+2025-12-27 23:27:27,743 INFO work called
+2025-12-27 23:27:27,826 INFO work called
+2025-12-27 23:27:27,881 INFO work called
+2025-12-27 23:27:27,980 INFO work called
+2025-12-27 23:27:28,039 INFO work called
+2025-12-27 23:27:28,118 INFO work called
+2025-12-27 23:27:28,203 INFO work called
+2025-12-27 23:27:28,279 INFO work called
+2025-12-27 23:27:28,319 INFO work called
+2025-12-27 23:27:28,362 INFO work called
+2025-12-27 23:27:28,457 INFO work called
+2025-12-27 23:27:28,551 INFO work called
+2025-12-27 23:27:28,692 INFO work called
+2025-12-27 23:27:28,733 INFO work called
+2025-12-27 23:27:28,869 INFO work called
+2025-12-27 23:27:28,968 INFO work called
+2025-12-27 23:27:29,071 INFO work called
+2025-12-27 23:27:29,150 INFO work called
+2025-12-27 23:27:29,284 INFO work called
+2025-12-27 23:27:29,337 INFO work called
+2025-12-27 23:27:29,474 INFO work called
+2025-12-27 23:27:29,558 INFO work called
+2025-12-27 23:27:29,671 INFO work called
+2025-12-27 23:27:29,748 INFO work called
+2025-12-27 23:46:46,010 INFO healthz called
+2025-12-27 23:46:46,019 INFO work called
+2025-12-27 23:46:46,091 INFO work called
+2025-12-27 23:46:46,141 INFO work called
+2025-12-27 23:46:46,253 INFO work called
+2025-12-27 23:46:46,307 INFO work called
+2025-12-27 23:46:46,369 INFO work called
+2025-12-27 23:46:46,449 INFO work called
+2025-12-27 23:46:46,571 INFO work called
+2025-12-27 23:46:46,691 INFO work called
+2025-12-27 23:46:46,769 INFO work called
+2025-12-27 23:46:46,907 INFO work called
+2025-12-27 23:46:46,952 INFO work called
+2025-12-27 23:46:47,021 INFO work called
+2025-12-27 23:46:47,153 INFO work called
+2025-12-27 23:46:47,253 INFO work called
+2025-12-27 23:46:47,363 INFO work called
+2025-12-27 23:46:47,458 INFO work called
+2025-12-27 23:46:47,514 INFO work called
+2025-12-27 23:46:47,627 INFO work called
+2025-12-27 23:46:47,680 INFO work called
+2025-12-27 23:46:47,734 INFO work called
+2025-12-27 23:46:47,800 INFO work called
+2025-12-27 23:46:47,890 INFO work called
+2025-12-27 23:46:48,004 INFO work called
+2025-12-27 23:46:48,069 INFO work called
+2025-12-27 23:46:48,107 INFO work called
+2025-12-27 23:46:48,207 INFO work called
+2025-12-27 23:46:48,279 INFO work called
+2025-12-27 23:46:48,357 INFO work called
+2025-12-27 23:46:48,449 INFO work called
+2025-12-27 23:51:11,976 INFO work called
+2025-12-27 23:51:12,074 INFO work called
+2025-12-27 23:51:12,117 INFO work called
+2025-12-27 23:51:12,197 INFO work called
+2025-12-27 23:51:12,262 INFO work called
+2025-12-27 23:51:12,374 INFO work called
+2025-12-27 23:51:12,432 INFO work called
+2025-12-27 23:51:12,527 INFO work called
+2025-12-27 23:51:12,604 INFO work called
+2025-12-27 23:51:12,670 INFO work called
+2025-12-27 23:51:12,722 INFO work called
+2025-12-27 23:51:12,773 INFO work called
+2025-12-27 23:51:12,865 INFO work called
+2025-12-27 23:51:13,010 INFO work called
+2025-12-27 23:51:13,149 INFO work called
+2025-12-27 23:51:13,196 INFO work called
+2025-12-27 23:51:13,266 INFO work called
+2025-12-27 23:51:13,321 INFO work called
+2025-12-27 23:51:13,455 INFO work called
+2025-12-27 23:51:13,513 INFO work called
+2025-12-27 23:51:13,580 INFO work called
+2025-12-27 23:51:13,670 INFO work called
+2025-12-27 23:51:13,735 INFO work called
+2025-12-27 23:51:13,869 INFO work called
+2025-12-27 23:51:13,909 INFO work called
+2025-12-27 23:51:14,022 INFO work called
+2025-12-27 23:51:14,107 INFO work called
+2025-12-27 23:51:14,174 INFO work called
+2025-12-27 23:51:14,234 INFO work called
+2025-12-27 23:51:14,343 INFO work called
+2025-12-27 23:57:39,426 INFO work called
+2025-12-27 23:57:39,539 INFO work called
+2025-12-27 23:57:39,593 INFO work called
+2025-12-27 23:57:39,713 INFO work called
+2025-12-27 23:57:39,821 INFO work called
+2025-12-27 23:57:39,931 INFO work called
+2025-12-27 23:57:40,023 INFO work called
+2025-12-27 23:57:40,097 INFO work called
+2025-12-27 23:57:40,144 INFO work called
+2025-12-27 23:57:40,290 INFO work called
+2025-12-27 23:57:40,402 INFO work called
+2025-12-27 23:57:40,523 INFO work called
+2025-12-27 23:57:40,607 INFO work called
+2025-12-27 23:57:40,748 INFO work called
+2025-12-27 23:57:40,800 INFO work called
+2025-12-27 23:57:40,939 INFO work called
+2025-12-27 23:57:41,066 INFO work called
+2025-12-27 23:57:41,184 INFO work called
+2025-12-27 23:57:41,326 INFO work called
+2025-12-27 23:57:41,420 INFO work called
+2025-12-27 23:57:41,474 INFO work called
+2025-12-27 23:57:41,549 INFO work called
+2025-12-27 23:57:41,663 INFO work called
+2025-12-27 23:57:41,768 INFO work called
+2025-12-27 23:57:41,909 INFO work called
+2025-12-27 23:57:42,041 INFO work called
+2025-12-27 23:57:42,086 INFO work called
+2025-12-27 23:57:42,210 INFO work called
+2025-12-27 23:57:42,275 INFO work called
+2025-12-27 23:57:42,345 INFO work called
+2025-12-27 23:57:42,396 INFO work called
+2025-12-27 23:57:42,441 INFO work called
+2025-12-27 23:57:42,505 INFO work called
+2025-12-27 23:57:42,634 INFO work called
+2025-12-27 23:57:42,711 INFO work called
+2025-12-27 23:57:42,849 INFO work called
+2025-12-27 23:57:42,915 INFO work called
+2025-12-27 23:57:42,964 INFO work called
+2025-12-27 23:57:43,074 INFO work called
+2025-12-27 23:57:43,179 INFO work called
+2025-12-28 00:04:12,159 INFO work called
+2025-12-28 00:04:12,292 INFO work called
+2025-12-28 00:04:12,413 INFO work called
+2025-12-28 00:04:12,472 INFO work called
+2025-12-28 00:04:12,524 INFO work called
+2025-12-28 00:04:12,614 INFO work called
+2025-12-28 00:04:12,713 INFO work called
+2025-12-28 00:04:12,775 INFO work called
+2025-12-28 00:04:12,885 INFO work called
+2025-12-28 00:04:12,929 INFO work called
+2025-12-28 00:04:13,025 INFO work called
+2025-12-28 00:04:13,066 INFO work called
+2025-12-28 00:04:13,108 INFO work called
+2025-12-28 00:04:13,232 INFO work called
+2025-12-28 00:04:13,336 INFO work called
+2025-12-28 00:04:13,431 INFO work called
+2025-12-28 00:04:13,528 INFO work called
+2025-12-28 00:04:13,569 INFO work called
+2025-12-28 00:04:13,650 INFO work called
+2025-12-28 00:04:13,757 INFO work called
+2025-12-28 00:04:13,829 INFO work called
+2025-12-28 00:04:13,914 INFO work called
+2025-12-28 00:04:14,046 INFO work called
+2025-12-28 00:04:14,121 INFO work called
+2025-12-28 00:04:14,194 INFO work called
+2025-12-28 00:04:14,274 INFO work called
+2025-12-28 00:04:14,401 INFO work called
+2025-12-28 00:04:14,461 INFO work called
+2025-12-28 00:04:14,575 INFO work called
+2025-12-28 00:04:14,680 INFO work called
+2025-12-28 00:04:14,731 INFO work called
+2025-12-28 00:04:14,813 INFO work called
+2025-12-28 00:04:14,941 INFO work called
+2025-12-28 00:04:15,078 INFO work called
+2025-12-28 00:04:15,184 INFO work called
+2025-12-28 00:04:15,250 INFO work called
+2025-12-28 00:04:15,393 INFO work called
+2025-12-28 00:04:15,497 INFO work called
+2025-12-28 00:04:15,555 INFO work called
+2025-12-28 00:04:15,624 INFO work called
+2025-12-28 00:08:57,410 INFO work called
+2025-12-28 00:08:57,541 INFO work called
+2025-12-28 00:08:57,604 INFO work called
+2025-12-28 00:08:57,709 INFO work called
+2025-12-28 00:08:57,747 INFO work called
+2025-12-28 00:08:57,866 INFO work called
+2025-12-28 00:08:57,937 INFO work called
+2025-12-28 00:08:57,993 INFO work called
+2025-12-28 00:08:58,109 INFO work called
+2025-12-28 00:08:58,240 INFO work called
+2025-12-28 00:08:58,356 INFO work called
+2025-12-28 00:08:58,484 INFO work called
+2025-12-28 00:08:58,593 INFO work called
+2025-12-28 00:08:58,640 INFO work called
+2025-12-28 00:08:58,777 INFO work called
+2025-12-28 00:08:58,849 INFO work called
+2025-12-28 00:08:58,903 INFO work called
+2025-12-28 00:08:58,945 INFO work called
+2025-12-28 00:08:59,058 INFO work called
+2025-12-28 00:08:59,105 INFO work called
+2025-12-28 00:08:59,163 INFO work called
+2025-12-28 00:08:59,199 INFO work called
+2025-12-28 00:08:59,247 INFO work called
+2025-12-28 00:08:59,329 INFO work called
+2025-12-28 00:08:59,455 INFO work called
+2025-12-28 00:08:59,544 INFO work called
+2025-12-28 00:08:59,655 INFO work called
+2025-12-28 00:08:59,764 INFO work called
+2025-12-28 00:08:59,841 INFO work called
+2025-12-28 00:08:59,964 INFO work called
+2025-12-28 00:09:00,094 INFO work called
+2025-12-28 00:09:00,187 INFO work called
+2025-12-28 00:09:00,234 INFO work called
+2025-12-28 00:09:00,342 INFO work called
+2025-12-28 00:09:00,386 INFO work called
+2025-12-28 00:09:00,520 INFO work called
+2025-12-28 00:09:00,626 INFO work called
+2025-12-28 00:09:00,751 INFO work called
+2025-12-28 00:09:00,865 INFO work called
+2025-12-28 00:09:00,995 INFO work called
+2025-12-28 00:09:01,126 INFO work called
+2025-12-28 00:09:01,219 INFO work called
+2025-12-28 00:09:01,302 INFO work called
+2025-12-28 00:09:01,385 INFO work called
+2025-12-28 00:09:01,491 INFO work called
+2025-12-28 00:09:01,609 INFO work called
+2025-12-28 00:09:01,728 INFO work called
+2025-12-28 00:09:01,852 INFO work called
+2025-12-28 00:09:01,922 INFO work called
+2025-12-28 00:09:02,023 INFO work called
+2025-12-28 00:17:16,074 INFO work called
+2025-12-28 00:17:16,133 INFO work called
+2025-12-28 00:17:16,213 INFO work called
+2025-12-28 00:17:16,323 INFO work called
+2025-12-28 00:17:16,404 INFO work called
+2025-12-28 00:17:16,538 INFO work called
+2025-12-28 00:17:16,587 INFO work called
+2025-12-28 00:17:16,646 INFO work called
+2025-12-28 00:17:16,691 INFO work called
+2025-12-28 00:17:16,770 INFO work called
+2025-12-28 00:17:16,851 INFO work called
+2025-12-28 00:17:16,936 INFO work called
+2025-12-28 00:17:17,034 INFO work called
+2025-12-28 00:17:17,170 INFO work called
+2025-12-28 00:17:17,233 INFO work called
+2025-12-28 00:17:17,345 INFO work called
+2025-12-28 00:17:17,441 INFO work called
+2025-12-28 00:17:17,563 INFO work called
+2025-12-28 00:17:17,659 INFO work called
+2025-12-28 00:17:17,803 INFO work called
+2025-12-28 00:17:17,875 INFO work called
+2025-12-28 00:17:17,997 INFO work called
+2025-12-28 00:17:18,113 INFO work called
+2025-12-28 00:17:18,197 INFO work called
+2025-12-28 00:17:18,250 INFO work called
+2025-12-28 00:17:18,375 INFO work called
+2025-12-28 00:17:18,483 INFO work called
+2025-12-28 00:17:18,559 INFO work called
+2025-12-28 00:17:18,674 INFO work called
+2025-12-28 00:17:18,721 INFO work called
+2025-12-28 00:17:18,861 INFO work called
+2025-12-28 00:17:18,961 INFO work called
+2025-12-28 00:17:19,078 INFO work called
+2025-12-28 00:17:19,189 INFO work called
+2025-12-28 00:17:19,312 INFO work called
+2025-12-28 00:17:19,455 INFO work called
+2025-12-28 00:17:19,555 INFO work called
+2025-12-28 00:17:19,698 INFO work called
+2025-12-28 00:17:19,773 INFO work called
+2025-12-28 00:17:19,874 INFO work called
+2025-12-28 00:17:20,016 INFO work called
+2025-12-28 00:17:20,064 INFO work called
+2025-12-28 00:17:20,142 INFO work called
+2025-12-28 00:17:20,248 INFO work called
+2025-12-28 00:17:20,366 INFO work called
+2025-12-28 00:17:20,508 INFO work called
+2025-12-28 00:17:20,626 INFO work called
+2025-12-28 00:17:20,767 INFO work called
+2025-12-28 00:17:20,873 INFO work called
+2025-12-28 00:17:20,997 INFO work called
+2025-12-28 00:34:07,291 INFO trace_id=064d97952051e199e2edcfe0e409ee01 span_id=d27741e1804ae71c work called
+2025-12-28 00:34:07,393 INFO trace_id=064d97952051e199e2edcfe0e409ee01 span_id=d27741e1804ae71c work done status=200 duration_ms=102.4
+2025-12-28 00:34:07,409 INFO trace_id=9a3e79ffa6118cb086434560113c61c0 span_id=74752d08d873ba34 work called
+2025-12-28 00:34:07,457 ERROR trace_id=9a3e79ffa6118cb086434560113c61c0 span_id=74752d08d873ba34 work failed
+Traceback (most recent call last):
+  File "/Users/chiho/ai-lab/mini-prod-sre/services/api/app.py", line 116, in work
+    raise RuntimeError("simulated failure")
+RuntimeError: simulated failure
+2025-12-28 00:34:07,458 INFO trace_id=9a3e79ffa6118cb086434560113c61c0 span_id=74752d08d873ba34 work done status=500 duration_ms=48.6
+2025-12-28 00:34:07,480 INFO trace_id=070fc81d129638d515a3173aa2dfde41 span_id=52a49f592012a972 work called
+2025-12-28 00:34:07,544 ERROR trace_id=070fc81d129638d515a3173aa2dfde41 span_id=52a49f592012a972 work failed
+Traceback (most recent call last):
+  File "/Users/chiho/ai-lab/mini-prod-sre/services/api/app.py", line 116, in work
+    raise RuntimeError("simulated failure")
+RuntimeError: simulated failure
+2025-12-28 00:34:07,545 INFO trace_id=070fc81d129638d515a3173aa2dfde41 span_id=52a49f592012a972 work done status=500 duration_ms=64.2
+2025-12-28 00:34:07,556 INFO trace_id=fcd18fc51b98657325a95582fc54513a span_id=c1eccfa3532c8ec1 work called
+2025-12-28 00:34:07,629 INFO trace_id=fcd18fc51b98657325a95582fc54513a span_id=c1eccfa3532c8ec1 work done status=200 duration_ms=73.0
+2025-12-28 00:34:07,643 INFO trace_id=15c959d7081fcb552ff87b6b65265398 span_id=1ef2556a0e50fbf1 work called
+2025-12-28 00:34:07,718 INFO trace_id=15c959d7081fcb552ff87b6b65265398 span_id=1ef2556a0e50fbf1 work done status=200 duration_ms=74.6
+2025-12-28 00:34:07,736 INFO trace_id=e5e6573bbbd186aa86a05a564eb90fda span_id=0994d4556872badb work called
+2025-12-28 00:34:07,855 INFO trace_id=e5e6573bbbd186aa86a05a564eb90fda span_id=0994d4556872badb work done status=200 duration_ms=119.1
+2025-12-28 00:34:07,871 INFO trace_id=5e06c0186f2d8499da8ff0943b987128 span_id=5ae29cda699b33b0 work called
+2025-12-28 00:34:07,939 INFO trace_id=5e06c0186f2d8499da8ff0943b987128 span_id=5ae29cda699b33b0 work done status=200 duration_ms=66.0
+2025-12-28 00:34:07,959 INFO trace_id=1d8db91301f43e8e0415d88a3de008e3 span_id=664958ae5c2ee2b8 work called
+2025-12-28 00:34:08,044 ERROR trace_id=1d8db91301f43e8e0415d88a3de008e3 span_id=664958ae5c2ee2b8 work failed
+Traceback (most recent call last):
+  File "/Users/chiho/ai-lab/mini-prod-sre/services/api/app.py", line 116, in work
+    raise RuntimeError("simulated failure")
+RuntimeError: simulated failure
+2025-12-28 00:34:08,045 INFO trace_id=1d8db91301f43e8e0415d88a3de008e3 span_id=664958ae5c2ee2b8 work done status=500 duration_ms=85.9
+2025-12-28 00:34:08,061 INFO trace_id=bc235ca5f4c5ea70ec9457199b878b47 span_id=0c866604c0315d8a work called
+2025-12-28 00:34:08,087 ERROR trace_id=bc235ca5f4c5ea70ec9457199b878b47 span_id=0c866604c0315d8a work failed
+Traceback (most recent call last):
+  File "/Users/chiho/ai-lab/mini-prod-sre/services/api/app.py", line 116, in work
+    raise RuntimeError("simulated failure")
+RuntimeError: simulated failure
+2025-12-28 00:34:08,087 INFO trace_id=bc235ca5f4c5ea70ec9457199b878b47 span_id=0c866604c0315d8a work done status=500 duration_ms=26.4
+2025-12-28 00:34:08,099 INFO trace_id=cdda152adc9e2f5640b4abfd0f2fcfb9 span_id=40b5b277067f8b53 work called
+2025-12-28 00:34:08,190 INFO trace_id=cdda152adc9e2f5640b4abfd0f2fcfb9 span_id=40b5b277067f8b53 work done status=200 duration_ms=91.0
+2025-12-28 00:34:08,207 INFO trace_id=1743dac2bb9b03a103990e5fc6c843e5 span_id=cfe57567398057f5 work called
+2025-12-28 00:34:08,298 ERROR trace_id=1743dac2bb9b03a103990e5fc6c843e5 span_id=cfe57567398057f5 work failed
+Traceback (most recent call last):
+  File "/Users/chiho/ai-lab/mini-prod-sre/services/api/app.py", line 116, in work
+    raise RuntimeError("simulated failure")
+RuntimeError: simulated failure
+2025-12-28 00:34:08,300 INFO trace_id=1743dac2bb9b03a103990e5fc6c843e5 span_id=cfe57567398057f5 work done status=500 duration_ms=93.0
+2025-12-28 00:34:08,318 INFO trace_id=803ba02434123101f417b2568cabd5af span_id=f50824ef1f1ffc40 work called
+2025-12-28 00:34:08,431 INFO trace_id=803ba02434123101f417b2568cabd5af span_id=f50824ef1f1ffc40 work done status=200 duration_ms=112.9
+2025-12-28 00:34:08,450 INFO trace_id=b50998395637f422032682a135b08371 span_id=8a5d0ed811a75018 work called
+2025-12-28 00:34:08,540 INFO trace_id=b50998395637f422032682a135b08371 span_id=8a5d0ed811a75018 work done status=200 duration_ms=89.5
+2025-12-28 00:34:08,559 INFO trace_id=a7bd50350e47d2ec2f5e6f0ad06ff4f4 span_id=8cba0e1d261852f3 work called
+2025-12-28 00:34:08,632 INFO trace_id=a7bd50350e47d2ec2f5e6f0ad06ff4f4 span_id=8cba0e1d261852f3 work done status=200 duration_ms=72.6
+2025-12-28 00:34:08,645 INFO trace_id=482a2ea83286def5bb49b6be36ca6b77 span_id=689f12221f7dfc15 work called
+2025-12-28 00:34:08,759 ERROR trace_id=482a2ea83286def5bb49b6be36ca6b77 span_id=689f12221f7dfc15 work failed
+Traceback (most recent call last):
+  File "/Users/chiho/ai-lab/mini-prod-sre/services/api/app.py", line 116, in work
+    raise RuntimeError("simulated failure")
+RuntimeError: simulated failure
+2025-12-28 00:34:08,760 INFO trace_id=482a2ea83286def5bb49b6be36ca6b77 span_id=689f12221f7dfc15 work done status=500 duration_ms=115.1
+2025-12-28 00:34:08,781 INFO trace_id=722e795ec96a3a5819f69807c57bdf36 span_id=0537bdcf051e1365 work called
+2025-12-28 00:34:08,869 INFO trace_id=722e795ec96a3a5819f69807c57bdf36 span_id=0537bdcf051e1365 work done status=200 duration_ms=87.6
+2025-12-28 00:34:08,891 INFO trace_id=36d974ede96ecdc755fb6034d5350add span_id=eeba2a38b35dfb85 work called
+2025-12-28 00:34:08,992 INFO trace_id=36d974ede96ecdc755fb6034d5350add span_id=eeba2a38b35dfb85 work done status=200 duration_ms=101.5
+2025-12-28 00:34:09,008 INFO trace_id=d6e3e8cdbbdcaf72837b1361930857bf span_id=259d0e8878fa0b3c work called
+2025-12-28 00:34:09,068 INFO trace_id=d6e3e8cdbbdcaf72837b1361930857bf span_id=259d0e8878fa0b3c work done status=200 duration_ms=59.9
+2025-12-28 00:34:09,083 INFO trace_id=72e91eacf0414c7dc266d6e2757c5563 span_id=8671ad93167de97f work called
+2025-12-28 00:34:09,199 ERROR trace_id=72e91eacf0414c7dc266d6e2757c5563 span_id=8671ad93167de97f work failed
+Traceback (most recent call last):
+  File "/Users/chiho/ai-lab/mini-prod-sre/services/api/app.py", line 116, in work
+    raise RuntimeError("simulated failure")
+RuntimeError: simulated failure
+2025-12-28 00:34:09,200 INFO trace_id=72e91eacf0414c7dc266d6e2757c5563 span_id=8671ad93167de97f work done status=500 duration_ms=116.9
+2025-12-28 00:34:09,221 INFO trace_id=de6b12205ba18fbccf9a74dba0f69e48 span_id=07564ed5e87c6122 work called
+2025-12-28 00:34:09,246 INFO trace_id=de6b12205ba18fbccf9a74dba0f69e48 span_id=07564ed5e87c6122 work done status=200 duration_ms=25.6
+2025-12-28 00:34:09,257 INFO trace_id=850e6017e91e36c1423d869954aae251 span_id=32621a05ce48169a work called
+2025-12-28 00:34:09,316 INFO trace_id=850e6017e91e36c1423d869954aae251 span_id=32621a05ce48169a work done status=200 duration_ms=58.9
+2025-12-28 00:34:09,329 INFO trace_id=21f95b529fdf3cf7dd0d8c2090fdfce2 span_id=6854144f75475f0a work called
+2025-12-28 00:34:09,429 INFO trace_id=21f95b529fdf3cf7dd0d8c2090fdfce2 span_id=6854144f75475f0a work done status=200 duration_ms=100.2
+2025-12-28 00:34:09,445 INFO trace_id=a7b08a8a1dc1eed6b7ac09d22d572b17 span_id=35382840446af792 work called
+2025-12-28 00:34:09,482 INFO trace_id=a7b08a8a1dc1eed6b7ac09d22d572b17 span_id=35382840446af792 work done status=200 duration_ms=36.4
+2025-12-28 00:34:09,497 INFO trace_id=c2ab9749f67f25d07d8f6a1eaaacd678 span_id=acaa0f8d371d2aae work called
+2025-12-28 00:34:09,559 ERROR trace_id=c2ab9749f67f25d07d8f6a1eaaacd678 span_id=acaa0f8d371d2aae work failed
+Traceback (most recent call last):
+  File "/Users/chiho/ai-lab/mini-prod-sre/services/api/app.py", line 116, in work
+    raise RuntimeError("simulated failure")
+RuntimeError: simulated failure
+2025-12-28 00:34:09,559 INFO trace_id=c2ab9749f67f25d07d8f6a1eaaacd678 span_id=acaa0f8d371d2aae work done status=500 duration_ms=62.0
+2025-12-28 00:34:09,573 INFO trace_id=6c6277c9c01b6568802a3f5b8cf05638 span_id=5ec02a79f349fcf0 work called
+2025-12-28 00:34:09,666 INFO trace_id=6c6277c9c01b6568802a3f5b8cf05638 span_id=5ec02a79f349fcf0 work done status=200 duration_ms=92.8
+2025-12-28 00:34:09,684 INFO trace_id=8e909480bd74f95278d7a77c153e9fe6 span_id=80cf7a2b5f48cb8e work called
+2025-12-28 00:34:09,735 INFO trace_id=8e909480bd74f95278d7a77c153e9fe6 span_id=80cf7a2b5f48cb8e work done status=200 duration_ms=50.9
+2025-12-28 00:34:09,751 INFO trace_id=c48cc803b210bdef47d935dafaf85b86 span_id=0f10225442dce603 work called
+2025-12-28 00:34:09,809 INFO trace_id=c48cc803b210bdef47d935dafaf85b86 span_id=0f10225442dce603 work done status=200 duration_ms=57.8
+2025-12-28 00:34:09,825 INFO trace_id=5e584c6392cb86e42e059dada1de3302 span_id=212aae5a188ccb5b work called
+2025-12-28 00:34:09,876 INFO trace_id=5e584c6392cb86e42e059dada1de3302 span_id=212aae5a188ccb5b work done status=200 duration_ms=50.9
+2025-12-28 00:34:09,892 INFO trace_id=2d2f422584ab0bb7e773e685939aefcd span_id=b7f0eba26f64e099 work called
+2025-12-28 00:34:09,965 INFO trace_id=2d2f422584ab0bb7e773e685939aefcd span_id=b7f0eba26f64e099 work done status=200 duration_ms=73.2
+2025-12-28 00:34:09,982 INFO trace_id=3a5735eafae33db185fd0df4610ed121 span_id=a14fc9e40c59c872 work called
+2025-12-28 00:34:10,008 INFO trace_id=3a5735eafae33db185fd0df4610ed121 span_id=a14fc9e40c59c872 work done status=200 duration_ms=26.5
+2025-12-28 00:34:10,018 INFO trace_id=ad41bc8f4ff71924bf1c1938428962a7 span_id=9c4b686bf2f1b4e5 work called
+2025-12-28 00:34:10,076 INFO trace_id=ad41bc8f4ff71924bf1c1938428962a7 span_id=9c4b686bf2f1b4e5 work done status=200 duration_ms=57.9
+2025-12-28 00:34:10,089 INFO trace_id=8aff2594aaef099aff10d959ea54d253 span_id=4ee238e602d68f12 work called
+2025-12-28 00:34:10,154 ERROR trace_id=8aff2594aaef099aff10d959ea54d253 span_id=4ee238e602d68f12 work failed
+Traceback (most recent call last):
+  File "/Users/chiho/ai-lab/mini-prod-sre/services/api/app.py", line 116, in work
+    raise RuntimeError("simulated failure")
+RuntimeError: simulated failure
+2025-12-28 00:34:10,154 INFO trace_id=8aff2594aaef099aff10d959ea54d253 span_id=4ee238e602d68f12 work done status=500 duration_ms=65.1
+2025-12-28 00:34:10,167 INFO trace_id=3e95f0f7534819b3b724f517ce7afb8d span_id=2f2dc1c726487626 work called
+2025-12-28 00:34:10,199 INFO trace_id=3e95f0f7534819b3b724f517ce7afb8d span_id=2f2dc1c726487626 work done status=200 duration_ms=31.2
+2025-12-28 00:34:10,212 INFO trace_id=b0ec74bec2e72688e3306adce768f137 span_id=13327940f399cab5 work called
+2025-12-28 00:34:10,247 ERROR trace_id=b0ec74bec2e72688e3306adce768f137 span_id=13327940f399cab5 work failed
+Traceback (most recent call last):
+  File "/Users/chiho/ai-lab/mini-prod-sre/services/api/app.py", line 116, in work
+    raise RuntimeError("simulated failure")
+RuntimeError: simulated failure
+2025-12-28 00:34:10,247 INFO trace_id=b0ec74bec2e72688e3306adce768f137 span_id=13327940f399cab5 work done status=500 duration_ms=35.2
+2025-12-28 00:34:10,260 INFO trace_id=8b9734fdb6aa8c07c6d021eb85d71e46 span_id=1f7c74649c120b9f work called
+2025-12-28 00:34:10,324 ERROR trace_id=8b9734fdb6aa8c07c6d021eb85d71e46 span_id=1f7c74649c120b9f work failed
+Traceback (most recent call last):
+  File "/Users/chiho/ai-lab/mini-prod-sre/services/api/app.py", line 116, in work
+    raise RuntimeError("simulated failure")
+RuntimeError: simulated failure
+2025-12-28 00:34:10,325 INFO trace_id=8b9734fdb6aa8c07c6d021eb85d71e46 span_id=1f7c74649c120b9f work done status=500 duration_ms=64.1
+2025-12-28 00:34:10,335 INFO trace_id=60bd71d070debc3b6314882412bff013 span_id=7441dc94938d51d4 work called
+2025-12-28 00:34:10,421 INFO trace_id=60bd71d070debc3b6314882412bff013 span_id=7441dc94938d51d4 work done status=200 duration_ms=85.8
+2025-12-28 00:34:10,439 INFO trace_id=1a56200a69670f7ddef2974cea7466de span_id=6f9a3573c5a50b0b work called
+2025-12-28 00:34:10,473 INFO trace_id=1a56200a69670f7ddef2974cea7466de span_id=6f9a3573c5a50b0b work done status=200 duration_ms=34.0
+2025-12-28 00:34:10,487 INFO trace_id=7fbb8a2fec0c79c73ba1af35c69e2977 span_id=ca84cb890f9bbfde work called
+2025-12-28 00:34:10,572 INFO trace_id=7fbb8a2fec0c79c73ba1af35c69e2977 span_id=ca84cb890f9bbfde work done status=200 duration_ms=85.1
+2025-12-28 00:34:10,582 INFO trace_id=b9061131998e84998652f24adb96096d span_id=cdbbe4775463668c work called
+2025-12-28 00:34:10,635 INFO trace_id=b9061131998e84998652f24adb96096d span_id=cdbbe4775463668c work done status=200 duration_ms=52.3
+2025-12-28 00:34:10,651 INFO trace_id=dde373974c7b4b11b147a864c7f26e87 span_id=7cfaf3a6e476f0a2 work called
+2025-12-28 00:34:10,748 INFO trace_id=dde373974c7b4b11b147a864c7f26e87 span_id=7cfaf3a6e476f0a2 work done status=200 duration_ms=96.8
+2025-12-28 00:34:10,767 INFO trace_id=b086ae4c0b5ae5b48a00566d6abf8c51 span_id=e1219a41d49cb36b work called
+2025-12-28 00:34:10,800 INFO trace_id=b086ae4c0b5ae5b48a00566d6abf8c51 span_id=e1219a41d49cb36b work done status=200 duration_ms=33.3
+2025-12-28 00:34:10,813 INFO trace_id=65cd1af5670944b312c12b82dceb3d86 span_id=0d77ecda448bfcab work called
+2025-12-28 00:34:10,897 INFO trace_id=65cd1af5670944b312c12b82dceb3d86 span_id=0d77ecda448bfcab work done status=200 duration_ms=84.2
+2025-12-28 00:34:10,913 INFO trace_id=89a60a2d6459e1e27736ec13815b63f3 span_id=643d9504a046319e work called
+2025-12-28 00:34:11,030 INFO trace_id=89a60a2d6459e1e27736ec13815b63f3 span_id=643d9504a046319e work done status=200 duration_ms=116.9
+2025-12-28 00:34:11,042 INFO trace_id=57df748ac7934cc6263f24d6a3012903 span_id=f399208965936eeb work called
+2025-12-28 00:34:11,079 INFO trace_id=57df748ac7934cc6263f24d6a3012903 span_id=f399208965936eeb work done status=200 duration_ms=36.6
+2025-12-28 00:34:11,090 INFO trace_id=72791f8b0d1fa9f10d26904f47a42d17 span_id=04c759559a3a173f work called
+2025-12-28 00:34:11,148 INFO trace_id=72791f8b0d1fa9f10d26904f47a42d17 span_id=04c759559a3a173f work done status=200 duration_ms=58.4
+2025-12-28 00:34:11,160 INFO trace_id=7585dbb5f820665d1bdeb4c6e35a7979 span_id=8324bd668e2b66ae work called
+2025-12-28 00:34:11,249 INFO trace_id=7585dbb5f820665d1bdeb4c6e35a7979 span_id=8324bd668e2b66ae work done status=200 duration_ms=89.6
+2025-12-28 00:34:11,267 INFO trace_id=09380c8de0f0a231282aef5848753867 span_id=1df4e55b0bb71734 work called
+2025-12-28 00:34:11,295 INFO trace_id=09380c8de0f0a231282aef5848753867 span_id=1df4e55b0bb71734 work done status=200 duration_ms=27.7
+2025-12-28 00:34:11,306 INFO trace_id=354885487505d4453d9c2eaaf483eaff span_id=822bc6ce12c6c94a work called
+2025-12-28 00:34:11,418 INFO trace_id=354885487505d4453d9c2eaaf483eaff span_id=822bc6ce12c6c94a work done status=200 duration_ms=111.9
+2025-12-28 00:34:11,437 INFO trace_id=031f8f7215baa4a62e7ba02d5802846b span_id=a1e8411f1ecbdd6f work called
+2025-12-28 00:34:11,553 INFO trace_id=031f8f7215baa4a62e7ba02d5802846b span_id=a1e8411f1ecbdd6f work done status=200 duration_ms=115.5
+2025-12-28 00:34:11,565 INFO trace_id=6031cbf6a710d39d0ffdb5ab211bafd9 span_id=11ed063e1c784712 work called
+2025-12-28 00:34:11,681 INFO trace_id=6031cbf6a710d39d0ffdb5ab211bafd9 span_id=11ed063e1c784712 work done status=200 duration_ms=115.8
